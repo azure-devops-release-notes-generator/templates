@@ -2,3 +2,5 @@
 bin
 obj
 *.cache
+Templates/Properties/PublishProfiles
+Templates/Templates.csproj.user
